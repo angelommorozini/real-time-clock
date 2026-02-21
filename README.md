@@ -1,20 +1,23 @@
 # Real-Time Clock ⏰
 
-Este é um **relógio digital em tempo real** feito com HTML, CSS e JavaScript.  
-Ele mostra a hora e os minutos no formato 12h com AM/PM, muda a **saudação**, a **cor de fundo** e a **imagem** de acordo com o período do dia.
+This is a **real-time digital clock** built with HTML, CSS, and JavaScript.  
+It displays hours and minutes in 12-hour format with AM/PM, and dynamically changes the **greeting**, **background color**, and **image** depending on the time of day.
 
-## Funcionalidades
+## Live Demo
 
-- Atualiza automaticamente a hora e os minutos a cada minuto.
-- Saudação dinâmica: `Good morning`, `Good afternoon` ou `Good evening`.
-- Fundo e imagem mudam conforme o período do dia:
-  - Manhã ☀️
-  - Tarde 🌤️
-  - Noite 🌙
-- Formato de hora: 12h com AM/PM.
-  
-## Como usar
+🎯 **Click here to see the live clock:** [🕒 Open Clock](https://angelommorozini.github.io/real-time-clock/)
 
-1. Clone ou baixe o repositório:
-```bash
-git clone https://github.com/angelommorozini/real-time-clock.git
+---
+
+## Features
+
+- Updates hours and minutes automatically every minute.
+- Dynamic greetings: `Good morning`, `Good afternoon`, `Good evening`.
+- Background and image change depending on the time:
+  - Morning ☀️
+  - Afternoon 🌤️
+  - Night 🌙
+- 12-hour format with AM/PM.
+---
+
+Made by **Angelo Morozini**
